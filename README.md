@@ -43,7 +43,7 @@ Passionate about automation, problem-solving, and continuous learning.
 A elegant site made in the minimal yet classy style.
 
 ### **[Przemek Pujemek Personal Site | Composer](https://example.com)**  
-Web app where users upload images/videos to playlists, with clients displaying assigned playlists.
+Static Personal Site for Polish Composer
 
 ### **[Resume Website](https://chasejarvisresume.netlify.app/)**  
 Interactive personal website featuring downloadable certifications and a clean resume looking UI.
