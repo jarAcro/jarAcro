@@ -50,6 +50,7 @@ Interactive personal website featuring downloadable certifications and a clean r
 
 ### **[Advanced Coordination Acting Technique](https://acatmethod.netlify.app/)**
 Made for a theater in Wrocław called Song of the Goat Theater
+
 ---
 
 ## 📩 Contact  
