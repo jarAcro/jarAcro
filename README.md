@@ -3,7 +3,7 @@
 Passionate about automation, problem-solving, and continuous learning.
 
 📍 **Warsaw, Poland**  
-🎴 **Portfolio:** *(Coming soon — or add your link here!)*
+🎴 **Portfolio:** *(Coming soon)*
 
 ---
 
@@ -15,7 +15,7 @@ Passionate about automation, problem-solving, and continuous learning.
 - Hardware diagnostics & troubleshooting  
 - Remote support (L1/L2)  
 - Ansible basics, scripting (Bash & PowerShell)  
-- Cloud fundamentals (Azure – AZ-900 in progress)
+- Cloud fundamentals (Azure – AZ-900)
 
 ### **Web Development**
 - **Frontend:** HTML, CSS, JavaScript  
@@ -24,7 +24,7 @@ Passionate about automation, problem-solving, and continuous learning.
 - **Version Control:** Git & GitHub  
 
 ### **Other Tools & Experience**
-- DaVinci Resolve (video editing)  
+- DaVinci Resolve (Video Editing)  
 
 
 ---
