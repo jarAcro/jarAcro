@@ -38,19 +38,15 @@ Passionate about automation, problem-solving, and continuous learning.
 ---
 
 ## 🖥️ Featured Projects  
-*(Replace project names if needed — or I can rewrite them to match your actual GitHub projects.)*
 
-### **Dead Restaurant Society**  
-A community-driven recipe archive for retired restaurants.
+### **[Edyta Krzemień Personal Site | Singer](https://edytakrzemien.com)**  
+A elegant site made in the minimal yet classy style.
 
-### **Digital Signage App (WIP)**  
+### **[Przemek Pujemek Personal Site | Composer](https://example.com)**  
 Web app where users upload images/videos to playlists, with clients displaying assigned playlists.
 
-### **Picture Randomizer Website**  
-A mobile-friendly site that displays random images using free hosting and a lightweight backend.
-
-### **Resume Website**  
-Interactive personal website featuring downloadable certifications and a clean UI.
+### **[Resume Website](https://chasejarvisresume.netlify.app/)**  
+Interactive personal website featuring downloadable certifications and a clean resume looking UI.
 
 ---
 
