@@ -42,7 +42,7 @@ Passionate about automation, problem-solving, and continuous learning.
 ### **[Edyta Krzemień Personal Site | Singer](https://edytakrzemien.com)**  
 A elegant site made in the minimal yet classy style.
 
-### **[Przemek Pujemek Personal Site | Composer](https://example.com)**  
+### **[Przemek Pujemek Personal Site | Composer](https://premislao.com)**  
 Static Personal Site for Polish Composer
 
 ### **[Resume Website](https://chasejarvisresume.netlify.app/)**  
